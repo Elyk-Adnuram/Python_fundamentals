@@ -10,3 +10,9 @@ This program shows how to obtain user input and display the input with a multi-l
 
 ### conversion.py
 This program illustrates the concept of casting to various data types such as int, float and str in Python.
+
+### replace.py
+This program demonstrates how to use the replace() and upper() built-in functions.
+
+### strings.py
+This program provides an example of using the strip() built-in function.
