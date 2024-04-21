@@ -20,5 +20,5 @@ This program provides an example of using the strip() built-in function.
 ### age-quiz.py
 This program illustrates the if, elif, else control structure in Python.
 
-###award.py
+### award.py
 This program demonstrates how to utilize Program to logical and comparison operators in Python.
