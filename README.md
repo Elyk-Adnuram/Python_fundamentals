@@ -22,3 +22,6 @@ This program illustrates the if, elif, else control structure in Python.
 
 ### award.py
 This program demonstrates how to utilize Program to logical and comparison operators in Python.
+
+### while.py
+This program showcases the use of a while loop in Python.
