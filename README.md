@@ -25,3 +25,6 @@ This program demonstrates how to utilize Program to logical and comparison opera
 
 ### while.py
 This program showcases the use of a while loop in Python.
+
+### patttern.py
+This program provides an example of using a for loop in Python.
