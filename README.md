@@ -28,3 +28,6 @@ This program showcases the use of a while loop in Python.
 
 ### patttern.py
 This program provides an example of using a for loop in Python.
+
+### alternative.py
+This program uses string handling methods such as upper() and lower() to manipulate the input provided.
